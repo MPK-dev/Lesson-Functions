@@ -17,4 +17,10 @@ def add_two(a, b):
 
 add_two(3, 4)
 
+import math
+
+
+def c_squared(a_squared, b_squared):
+    c = math.sqrt(a_squared^2 + b_squared^2)
+    return c
 
