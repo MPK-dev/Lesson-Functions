@@ -2,9 +2,9 @@
 ##Functions
 
 #Four reasons to use functions
-#1.
-#2.
-#3.
+#1.Reduces redundency
+#2.Simplyfies your code
+#3.Can be shared with friends
 #4.
 
 #For the following function..
